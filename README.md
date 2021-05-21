@@ -1,9 +1,24 @@
 # pig-game
- Instructions The game of Pig is a very simple jeopardy dice game in which two players race to reach 100 points. Each turn, a player repeatedly rolls a die until either a 1 is rolled or the player holds and scores the sum of the rolls (i.e. the turn total). At any time during a player's turn, the player is faced with two decisions:  roll - If the player rolls a 1: the player scores nothing and it becomes the opponent's turn. 2 - 6: the number is added to the player's turn total and the player's turn continues. hold - The turn total is added to the player's score and it becomes the opponent's turn. You are playing against the computer. The red triangle indicates the current player. Hover over the pig to get the optimal decision.
+ Instructions The game of Pig is a very simple jeopardy dice game in which two players race to reach 100 points. 
+ Each turn, a player repeatedly rolls a die until either a 1 is rolled or the player holds and scores the sum of 
+ the rolls (i.e. the turn total). At any time during a player's turn, the player is faced with two decisions:  
+ roll - If the player rolls a 1: the player scores nothing and it becomes the opponent's turn. 2 - 6: the number 
+ is added to the player's turn total and the player's turn continues. hold - The turn total is added to the player's 
+ score and it becomes the opponent's turn. You are playing against the computer. The red triangle indicates the current
+ player. Hover over the pig to get the optimal decision.
 
 ### New game
- ![New game](./diagrams/NewGame.jpg)
+
+![New game](https://github.com/rqkohistani/pig-game/blob/main/diagrams/NewGame.JPG)
  
  ### Winner UI
-  ![New game](./diagrams/Winner.jpg)
  
+![New game](https://github.com/rqkohistani/pig-game/blob/main/diagrams/Winner.JPG)
+  
+  ### Flowchart
+  
+![Flowchart](https://github.com/rqkohistani/pig-game/blob/main/diagrams/NewGame.JPG)
+  
+## image of Yaktocat
+![pig-game flowchart](https://github.com/rqkohistani/pig-game/blob/main/diagrams/pig-game-flowchart.png "Text to show on mouseover")
+
