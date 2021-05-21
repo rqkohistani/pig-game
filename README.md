@@ -10,15 +10,15 @@
 ### New game
 
 ![New game](https://github.com/rqkohistani/pig-game/blob/main/diagrams/NewGame.JPG)
+
  
  ### Winner UI
  
-![New game](https://github.com/rqkohistani/pig-game/blob/main/diagrams/Winner.JPG)
+![Winner UI](https://github.com/rqkohistani/pig-game/blob/main/diagrams/Winner.JPG)
   
-  ### Flowchart
+
   
-![Flowchart](https://github.com/rqkohistani/pig-game/blob/main/diagrams/NewGame.JPG)
   
-## image of Yaktocat
-![pig-game flowchart](https://github.com/rqkohistani/pig-game/blob/main/diagrams/pig-game-flowchart.png "Text to show on mouseover")
+## Pig-game Flowchart
+![pig-game flowchart](https://github.com/rqkohistani/pig-game/blob/main/diagrams/pig-game-flowchart.png")
 
